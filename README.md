@@ -19,7 +19,7 @@ Before running the below command, make sure you're in the project directory that
 you've just cloned!!
 
 ```bash
-> cd botwasapv5
+> cd 4lfbot
 > bash install.sh
 ```
 
@@ -40,12 +40,8 @@ you've just cloned!!
 
 | Other  |                     Feature                     |
 | :------------: | :---------------------------------------------: |
-|       ✅        |   Get a random meme             |
 |       ✅        |   Text to speech                |
 |       ✅        |   Writing feature 				|
-|       ✅        |   What Anime Is This 			|
-|       ✅        |   Url2Img ( Screeenshot Web )   |
-|       ✅        |   Simsimi		                |
 
 | Group  |                     Feature               |
 | :-----------: | :--------------------------------: |
